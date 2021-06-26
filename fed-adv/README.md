@@ -3,3 +3,13 @@
 ```sh
 python3 fed_main.py
 ```
+
+## Results
+The model is trained:
+1. Communication rounds=100
+2. Batch_size = 32
+3. local epoch = 5
+
+| Model | Accuracy |
+| :---: | :---: |
+| VGG16 | 83.71|
